@@ -1,0 +1,27 @@
+body {background-color: darkcyan;
+}
+.p3 {text-align: center;
+    font-size: 150%;
+    color: darkred;
+}
+.p1 {border-width: 5px;
+border-color: black;
+border-style: dashed;
+margin-left: 20%;
+margin-right: 34%;
+padding-left: 7%;
+padding-top: 5%;
+}
+
+.p1 {background-color: rgb(243, 243, 38);
+}
+
+.p1 {color: blueviolet;
+}
+
+.p2 {color: aliceblue;
+font-size: 120%;
+}
+
+.p4 {color: rgb(228, 147, 214);}
+
