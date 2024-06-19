@@ -19,7 +19,7 @@ padding-top: 5%;
 .p1 {color: blueviolet;
 }
 
-.p2 {color: aliceblue;
+.p2 {color: rgb(233, 138, 50);
 font-size: 120%;
 }
 
@@ -29,5 +29,10 @@ font-size: 120%;
     border-color: aqua;
     border-style: double;
 }
+
+.p4 {text-align: right;
+}
+
+
 
 
