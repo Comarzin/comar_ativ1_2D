@@ -25,3 +25,9 @@ font-size: 120%;
 
 .p4 {color: rgb(228, 147, 214);}
 
+.p3 {border-bottom: 5px;
+    border-color: aqua;
+    border-style: double;
+}
+
+
